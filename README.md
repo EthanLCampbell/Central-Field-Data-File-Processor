@@ -2,7 +2,6 @@
 Central-Field-Data-File-Processor is a matlab function which converts central field csv files to shorter, cleaner txt files. 
 
 ## Basic Operation
-Something
 - The function prompts the user to select a folder containing csv files and as well as an output folder.
 - Raw csv files in the user-selected folder are automatically read (a sample csv files is included in this repository).
 - Non data columns and any rows with NaN values are removed.
@@ -11,6 +10,5 @@ Something
 - Data is written to a tab-delimited txt file which has the same name as the input file plus '_Output'.
 
 ## Other Features
-Something
 - A table is generated upon reading the input file (currently commented out).
 - Able to plot all data or data based on rbg category to the same axis.
